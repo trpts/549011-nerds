@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/19/user/549011).
-* Наставник: `Неизвестно`.
+* Студент: [Nick Treptsov](https://up.htmlacademy.ru/htmlcss/19/user/549011).
+* Наставник: [Катерина Шелег](https://htmlacademy.ru/profile/katesheleh).
 
 ---
 
